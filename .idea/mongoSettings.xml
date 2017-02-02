@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="authenticationDatabase" value="admin" />
+          <option name="authenticationMechanism" value="SCRAM-SHA-1" />
+          <option name="label" value="Coches" />
+          <option name="password" value="Lhort-1424" />
+          <option name="serverUrls">
+            <list>
+              <option value="82.165.100.218:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="username" value="hort" />
+        </ServerConfiguration>
+      </list>
+    </option>
+    <option name="shellPath" value="X:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" />
+  </component>
+</project>

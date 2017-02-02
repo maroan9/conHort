@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Angular, angular-agility-DefinitelyTyped, angular-bootstrap-calendar-DefinitelyTyped, bootstrap-DefinitelyTyped, elasticsearch-DefinitelyTyped, express-DefinitelyTyped, grunt-DefinitelyTyped, gulp-DefinitelyTyped, mongodb-DefinitelyTyped, mongoose-DefinitelyTyped, node-DefinitelyTyped, passport-DefinitelyTyped, socket.io-DefinitelyTyped}" />
+  </component>
+</project>
